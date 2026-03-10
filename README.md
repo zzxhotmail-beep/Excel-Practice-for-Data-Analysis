@@ -19,7 +19,7 @@ A complete end-to-end data analysis project using bike sales datasets, integrati
 - Analyzed the impact of customer commute distance and age brackets on bike purchase behavior
 - Built interactive charts and integrated Slicers for flexible multi-dimensional filtering
 - Designed a comprehensive, user-friendly Bike Sales Dashboard to visualize key insights
-Dashboard Preview:
+- Dashboard Preview:
 ![Bike Sales Dashboard](https://github.com/zzxhotmail-beep/Excel-Practice-for-Data-Analysis/blob/main/Project%20-%20Dashboard.png)
 
 ## Learning Resources & Approach
