@@ -20,7 +20,7 @@ A complete end-to-end data analysis project using bike sales datasets, integrati
 - Built interactive charts and integrated Slicers for flexible multi-dimensional filtering
 - Designed a comprehensive, user-friendly Bike Sales Dashboard to visualize key insights
 - Dashboard Preview:
-![Bike Sales Dashboard](https://github.com/zzxhotmail-beep/Excel-Practice-for-Data-Analysis/blob/main/Project%20-%20Dashboard.png)
+![Bike Sales Dashboard](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/Excel-Practice-for-Data-Analysis@main/Project%20-%20Dashboard.png)
 
 ## Learning Resources & Approach
 - Learning Channel: YouTube Data Analysis Tutorials (Excel-focused)
