@@ -1,4 +1,4 @@
-# Excel & Google Sheets Data Analysis Practice
+# Bike Sales Analysis | Excel & Google Sheets Portfolio Project
 This repository documents my self-learning journey in spreadsheet-based data analysis, focusing on practical skills application and end-to-end project delivery.
 
 ## Repository Introduction
