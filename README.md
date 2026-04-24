@@ -64,5 +64,5 @@ Using a real-world bike sales dataset, I performed data cleaning, analysis, and 
 
 ## 📬 Author - Zixuan Zhang
 
-This project is part of my portfolio, showcasing the Python skills essential for data analyst roles.
+This project is part of my portfolio, showcasing the Excel & Google Sheets skills essential for data analyst roles.
 - **LinkedIn**: [My Professional Profile](https://www.linkedin.com/in/zixuan-zhang-78ba38274)
