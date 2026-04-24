@@ -48,7 +48,6 @@ Using a real-world bike sales dataset, I performed data cleaning, analysis, and 
 
 ## 📷 Dashboard Preview
 
-- Dashboard Preview:
 ![Bike Sales Dashboard](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/Excel-Practice-for-Data-Analysis@main/Project%20-%20Dashboard.png)
 
 ## 💡 What I Learned
